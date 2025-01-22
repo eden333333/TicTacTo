@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TicTacTo</string>
+    <string name="welcome_the_tic_tac_to">Welcome The Tic Tac To</string>
+    <string name="player2">Player2:</string>
+    <string name="player1">Player1:</string>
+    <string name="start_game">Start Game</string>
+    <string name="toc_tac_to">Toc Tac To</string>
+    <string name="name_of_player_one">Name of player one</string>
+    <string name="name_of_player_two">Name of player two</string>
+    <string name="enter_your_name">Enter your name...</string>
+    <string name="next_turn">Next turn</string>
+</resources>
